@@ -1,4 +1,4 @@
-### Atlassian backup script
+### Atlassian backup script draft
 --init : create backup file on site backupe manager ~ 40min   
 --download : download backup to local folder specified in script setup    
 --upload : upload local backup files to AWS S3   
